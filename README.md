@@ -7,4 +7,4 @@ use recaf and get rid of that shit
 
 shitware
 
-  <img width="1024" src="https://raw.githubusercontent.com/HockeyPuckWare/blob/main/Screenshot%20from%202022-07-22%2023-54-02.png" alt="Logo">
+  <img width="1024" src="hhttps://raw.githubusercontent.com/flufferyy/HockeyPuckWare/main/Screenshot%20from%202022-07-22%2023-54-02.png" alt="Logo">
